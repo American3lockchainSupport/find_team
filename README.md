@@ -16,7 +16,7 @@ You are looking for a crypto dev to help buidl your idea or you're looking for a
 
 You **have skills** and **want to find a team**? Great:
 
-1.  Open a new issue using the template `Hacker wants team`. Here you can introduce yourself and tell potential teams why you're awesome. Feel free to add or create labels that match your skills.
+1.  Open a new issue using the template `I wants team`. Here you can introduce yourself and tell potential teams why you're awesome. Feel free to add or create labels that match your skills.
 2.  Browse all open issues with the label `looking-for-hackers` or `creating-new-team`.
 3.  If you find a team with an idea that excites you, start engaging with the team. You can just comment in the issue. You should reference the issue from step 1 here, so that the team can learn a bit more about you.
 4.  When you found a team please close your issue so that people know you have found a team.
